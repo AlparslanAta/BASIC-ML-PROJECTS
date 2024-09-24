@@ -1,2 +1,2 @@
 # BASIC-ML-PROJECTS
-This repository contains machine learning projects I've developed during my learning journey. Each project explores different algorithms, techniques, and concepts, helping me build a solid foundation in machine learning.
+This project focuses on data preprocessing and classification using Python libraries such as NumPy, Pandas, Seaborn, and Matplotlib. Key steps include data visualization, outlier detection using the IQR method, removal of unnecessary columns, target variable encoding, and data standardization with StandardScaler. The classification model is built using K-Nearest Neighbors (KNN) and evaluated based on accuracy.
